@@ -1,1 +1,2 @@
-# Employee-Promotion-Prediction
+# Employee Promotion Prediction
+A group project focused on building a machine learning model to predict whether an employee is likely to be promoted. Using a structured company dataset, we performed data cleaning, feature engineering, and applied classification algorithms like Logistic Regression and Random Forest. The model aimed to support HR decisions by improving fairness and efficiency in the promotion process. Achieved strong accuracy and identified key promotion-driving features.
